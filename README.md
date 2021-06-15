@@ -1,4 +1,11 @@
+   <h1>Deploy link</h1>
+   <h2>  https://dev.d2p9wqagpepb8m.amplifyapp.com/ </h2>
    <ul>
+   <li>
+    <p>
+      Flow: Vehiculos -> Authenticarse -> obtiene lista de vehiculos -> pedir tarifas -> obtiene lista de vehiculos con la tarifa segun su tipo.
+    </p>
+   </li>
         <li>
           <p>
             Para ver la lista de vihiculos debes crear un usuario, para eso
