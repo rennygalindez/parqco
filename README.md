@@ -1,5 +1,5 @@
-   <h1>Deploy link</h1>
-   <h2>  https://dev.d2p9wqagpepb8m.amplifyapp.com/ </h2>
+   <h1></h1>
+   <h2><a  href="https://dev.d2p9wqagpepb8m.amplifyapp.com/">  Deploy link  </a></h2>
    <ul>
    <li>
     <p>
