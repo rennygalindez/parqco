@@ -1,0 +1,35 @@
+{
+  "paths": [
+    {
+      "name": "/vehicles",
+      "lambdaFunction": "parqApp",
+      "privacy": {
+        "open": true
+      },
+      "policyResourceName": "/vehicles"
+    }
+  ],
+  "resourceName": "parqApi",
+  "apiName": "parqApi",
+  "functionArns": [
+    {
+      "lambdaFunction": "parqApp"
+    }
+  ],
+  "privacy": {
+    "auth": 0,
+    "unauth": 0,
+    "authRoleName": "amplify-parq-dev-175324-authRole",
+    "unAuthRoleName": "amplify-parq-dev-175324-unauthRole"
+  },
+  "dependsOn": [
+    {
+      "category": "function",
+      "resourceName": "parqApp",
+      "attributes": [
+        "Name",
+        "Arn"
+      ]
+    }
+  ]
+}

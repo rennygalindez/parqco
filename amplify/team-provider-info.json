@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-parq-dev-175324-authRole",
+      "UnauthRoleArn": "arn:aws:iam::349324833271:role/amplify-parq-dev-175324-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::349324833271:role/amplify-parq-dev-175324-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-parq-dev-175324-deployment",
+      "UnauthRoleName": "amplify-parq-dev-175324-unauthRole",
+      "StackName": "amplify-parq-dev-175324",
+      "StackId": "arn:aws:cloudformation:us-east-1:349324833271:stack/amplify-parq-dev-175324/ad283a90-ca3e-11eb-9b74-12ab4fab6419",
+      "AmplifyAppId": "d2p9wqagpepb8m"
+    },
+    "categories": {
+      "function": {
+        "parqApp": {
+          "deploymentBucketName": "amplify-parq-dev-175324-deployment",
+          "s3Key": "amplify-builds/parqApp-5150766956772f4f4b65-build.zip"
+        }
+      },
+      "auth": {
+        "parqed9d0578": {}
+      }
+    }
+  }
+}
